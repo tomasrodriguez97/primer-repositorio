@@ -3,4 +3,9 @@
     margin: 0 auto;
     text-align: center;
     background-color: beige;
+    
+}
+.h2{
+    font-family: sans-serif;
+    color: crimson;
 }
